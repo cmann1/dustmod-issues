@@ -3,7 +3,7 @@ A central place used to report and track Dustmod issues and feature requests.
 [All issues](https://blah.com)
 
 ## Reporting Issues
-Try to include as much information as you can, and if possible the required steps to reproduce.
+Try to include as much information as you can, and if possible the required steps to reproduce.  
 If necessary please also attach the `output.log` file which can be found in the Dustforce installation directory.
 
 ## Labels
