@@ -1,6 +1,6 @@
 # Dustmod Issues
 A central place used to report and track Dustmod issues and feature requests.  
-[All issues](https://blah.com)
+[All issues](https://github.com/cmann1/dustmod-issues/issues)
 
 ## Reporting Issues
 Try to include as much information as you can, and if possible the required steps to reproduce.  
