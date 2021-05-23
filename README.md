@@ -1,5 +1,5 @@
 # Dustmod Issues
-A central place used to report and track Dustmod issues and feature requests.
+A central place used to report and track Dustmod issues and feature requests.  
 [All issues](https://blah.com)
 
 ## Reporting Issues
