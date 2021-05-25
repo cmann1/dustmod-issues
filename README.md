@@ -1,6 +1,7 @@
 # Dustmod Issues
 A central place used to report and track Dustmod issues and feature requests.  
-[All issues](https://github.com/cmann1/dustmod-issues/issues)
+Make sure to use the search feature on the [issues](https://github.com/cmann1/dustmod-issues/issues) page to check if your issue hasn't already been reported.
+If it doesn't exist, use the **New issue** button in the top right to create it. 
 
 ## Reporting Issues
 Try to include as much information as you can, and if possible the required steps to reproduce.  
@@ -15,6 +16,7 @@ The following labels are used to categorise issues:
 - [**editor**](https://github.com/cmann1/dustmod-issues/labels/editor) Changes to the map editor
 - [**script api**](https://github.com/cmann1/dustmod-issues/labels/script%20api) Changes to the dustscript API
 - [**editor api**](https://github.com/cmann1/dustmod-issues/labels/editor%20api) Changes to the editor script API
+- [**netcode**](https://github.com/cmann1/dustmod-issues/labels/netcode) Bugs/changes to netcode
 - [**other**](https://github.com/cmann1/dustmod-issues/labels/other) Doesn't fall under any of the other categories
 - [**won't fix**](https://github.com/cmann1/dustmod-issues/labels/won%27t%20fix) These issues won't, or can't be fixed
 - [**low priority**](https://github.com/cmann1/dustmod-issues/labels/low%20priority)
